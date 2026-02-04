@@ -28,7 +28,7 @@
 
   Example embed format:
 
-  ![Juice Shop home](/DevSecOps-Intro/labs/lab_images/lab1_owasp.png)
+  ![Juice Shop home](./lab_images/lab1_owasp.png)
 
 
 - API check — first 10 lines from:
@@ -95,7 +95,7 @@
 ### 2.2 Process
 - Created and pushed template file on `main` so GitHub auto-loads it for PRs.
 - Opened PR from `feature/lab1` → firstly to my fork `main`
-- Verification screenshot: ![Screenshot of auto filling PR template](/DevSecOps-Intro/labs/lab_images/lab1_pr_template.png)
+- Verification screenshot: ![Screenshot of auto filling PR template](./lab_images/lab1_pr_template.png)
 
 
 ### 2.3 Reflection — How Templates Improve Workflow
